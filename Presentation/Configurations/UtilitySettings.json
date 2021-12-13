@@ -1,0 +1,10 @@
+﻿{
+  "CommandParserSettings": {
+    "CommandIdentity": "command",
+    "CommandPattern": "бот\\s*(?<command>[\\w\\s]+)"
+  },
+
+  "CircutBrakerSettings": {
+    "TimeOutInterval": 10000
+  }
+}

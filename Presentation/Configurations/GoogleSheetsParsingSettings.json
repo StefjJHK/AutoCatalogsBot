@@ -1,0 +1,20 @@
+﻿{
+  "GoogleSheets": {
+    "Patterns": {
+      "Sheet": "Patterns",
+      "Kind": 1,
+      "Name": 2,
+      "Tag": 3
+    },
+    "Discussions": {
+      "Sheet": "Discussions",
+      "Tag": 0,
+      "Id": 1
+    },
+    "Catalog": {
+      "Tag": 1,
+      "Name": 2,
+      "Count": 3
+    }
+  }
+}
